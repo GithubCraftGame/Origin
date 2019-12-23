@@ -1,8 +1,0 @@
-{
-	"version_code": 1,
-	"package": "com.blockbuilding.crafting.survival.origin",
-	"content_ru":"<big><big><b>Версия 0.9.3</b></big><br/><ul><li>Исправили проблемы с вылетами игры</li><li>Улучшили управление и добавили взаимодействие с Предметами и Мобами</li></ul><b>Пожалуйста, скачайте обновление!</b></big>",
-	"content_en":"<big><big><b>Version 0.9.3</b></big><br/><ul><li>Fixed game crashes</li><li>Improved touch controls and added interaction with Cart, Boat and Mobs</li></ul><b>Please download the update!</b></big>",
-	"ads_delay": 180000,
-	"ads_repeat": 120000
-}
